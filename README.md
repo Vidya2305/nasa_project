@@ -13,7 +13,7 @@ API Integration, JSON Parsing, Python, SQL, Data Extraction, Data Transformation
 
 In **NASA.py** you can find the code for streamlit output.
 
-In **NASA Near-Earth Object (NEO) Tracking & Insights using Public API.ipynb** you can access the coding part of additional queries.
+In **NASA Near-Earth Object (NEO) Tracking & Insights using Public API.ipynb** you can see the coding part of additional queries and you can access this file using githubdev.
 
 I have attached the snip shot of the Streamlit Output below.
 
