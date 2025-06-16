@@ -1,7 +1,7 @@
 # nasa_project
-Project Title - 🚀 NASA Near-Earth Object (NEO) Tracking & Insights using Public API
-Domain - Space Research & Astronomical Data Analysis
-Business Use Cases - 
+#Project Title - 🚀 NASA Near-Earth Object (NEO) Tracking & Insights using Public API
+#Domain - Space Research & Astronomical Data Analysis
+3Business Use Cases - 
 - Threat Monitoring: Analyze which asteroids are potentially hazardous based on velocity, size, and proximity.
 - Date-Based Exploration: Understand patterns of asteroid occurrences and visits by date.
 - Filtering for Insight: Help researchers or educators filter based on custom conditions like approach distance, size, or orbiting body.
