@@ -1,4 +1,3 @@
-# nasa_project
 Project Title - 🚀 NASA Near-Earth Object (NEO) Tracking & Insights using Public API
 
 Domain - Space Research & Astronomical Data Analysis
